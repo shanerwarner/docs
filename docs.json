@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "LabMice Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#057cd2",
+    "light": "#057cd2",
+    "dark": "#0038a6"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -104,5 +104,14 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "background": {
+    "decoration": "gradient"
+  },
+  "fonts": {
+    "family": "Inter"
+  },
+  "thumbnails": {
+    "appearance": "light"
   }
 }
